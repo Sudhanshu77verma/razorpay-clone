@@ -133,7 +133,7 @@ function shufflePassword(array) {
     }
     return str;
 
-    return str;
+   
 }
 
 function handleCheckBoxChange() {
